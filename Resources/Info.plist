@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>fr</string>
+	<key>CFBundleDisplayName</key>
+	<string>zerOS</string>
+	<key>CFBundleExecutable</key>
+	<string>zerOS</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.zeropablo.zeros</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>fr</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>zerOS</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>24</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocSpaceEfficient</key>
+		<string>1</string>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>zerOS pilote le Finder et Événements Système pour vider la corbeille et gérer les apps au démarrage.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>zerOS cherche les gros fichiers, doublons et installateurs sur votre Bureau.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>zerOS cherche les gros fichiers, doublons et anciennes versions dans vos Documents.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>zerOS trie votre dossier Téléchargements.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>zerOS peut analyser vos disques réseau avec Space Lens.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>zerOS analyse et vide la corbeille de vos disques externes.</string>
+</dict>
+</plist>

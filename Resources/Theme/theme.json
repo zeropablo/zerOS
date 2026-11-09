@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "aujourdhui": { "overlay": 0.10, "glassTint": 0.15, "toolbarScrim": true },
+    "stockage":   { "overlay": 0.18, "glassTint": 0.18, "toolbarScrim": true },
+    "apps":       { "overlay": 0.20, "glassTint": 0.30, "toolbarScrim": true },
+    "sante":      { "overlay": 0.12, "glassTint": 0.15, "toolbarScrim": false },
+    "journal":    { "overlay": 0.10, "glassTint": 0.15, "toolbarScrim": true }
+  }
+}
